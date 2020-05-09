@@ -1,5 +1,1 @@
-# [University of Toronto Volumes](https://uoftcompendium.github.io/)
-
-
-
-
+[University of Toronto Volumes](https://uoftcompendium.github.io/)
